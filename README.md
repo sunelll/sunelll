@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=hesu&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text="반갑습니다!"&fontSize=40)
 
-### 👋 반갑습니다 민희수입니다
+### 👋 민희수입니다
 
-- 💻 아직 배울게 많은 주니어 웹 프론트엔드 엔지니어입니다.
+- 💻 아직 배울게 많은 주니어 앱 프론트엔드 엔지니어입니다.
 - 🎨 유저들에게 더 친화적인 UI/UX와 네이티브 쪽에 많은 관심을 가지고 있습니다!
 - 😎 다양한 여러가지를 배우고 있습니다
 
