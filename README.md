@@ -1,8 +1,8 @@
 ### 👋 반갑습니다
 
-💻 아직 배울게 많은 주니어 웹 프론트엔드 엔지니어입니다.
-🎨 유저를 생각하며 UI/UX 디자인에 관심이 많습니다.
-😎 나만의 일을 찾기위해 열심히 노력중입니다.
+- 💻 아직 배울게 많은 주니어 웹 프론트엔드 엔지니어입니다.
+- 🎨 유저를 생각하며 UI/UX 디자인에 관심이 많습니다.
+- 😎 나만의 일을 찾기위해 열심히 노력중입니다.
 
 ![dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
